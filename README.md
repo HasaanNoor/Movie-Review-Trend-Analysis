@@ -1,10 +1,8 @@
-# Project Title
-
-Rotten Tomatoes Movie Review Analysis (1970-2024)
+# Movie Review Trend Analysis (1970-2024)
 
 ## Description
 
-This project aims to analyze movie data from Rotten Tomatoes spanning from 1970 to 2024. The analysis includes various metrics such as ratings, genres, and trends over the years.
+This project aims to analyze movie review data from Rotten Tomatoes spanning from 1970 to 2024. The analysis includes various metrics such as polarity, subjectivity, and sentiment trends over the years. The project also involves web scraping to gather review data from Rotten Tomatoes.
 
 ## Table of Contents
 
@@ -21,35 +19,42 @@ This project aims to analyze movie data from Rotten Tomatoes spanning from 1970 
 To use this project, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/HasaanNoor/Movie-Review-Trend-Analysis.git
+cd Movie-Review-Trend-Analysis
 # Install dependencies
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-Explain how to use the scripts in the repository.
+### Running the Analysis
 
-```bash
-# Example command to run a script
-python Scripts/analyze_reviews.py
-```
+1. Ensure you have followed the installation instructions.
+2. Place your datasets in the `data` directory.
+3. Run the web scraping script to fetch reviews from Rotten Tomatoes:
+   ```bash
+   python scripts/scrape_reviews.py
+   ```
+4. Run the analysis script:
+   ```bash
+   python scripts/analyze_reviews.py
+   ```
+
+### Customizing the Analysis
+
+- You can modify the `scrape_reviews.py` script to add more movie URLs.
+- You can modify the `analyze_reviews.py` script to change the analysis parameters.
 
 ## Data
 
-The data folder contains the Rotten Tomatoes dataset used in this project. The dataset includes information such as:
-
-- Movie title
-- Release year
-- Genre
-- Ratings
-- Number of reviews
+The data used in this project includes:
+- Movie reviews from Rotten Tomatoes.
+- Movie metadata such as release dates, genres, and ratings.
 
 ## Scripts
 
-- `analyze_reviews.py`: Script for analyzing and visualizing the Rotten Tomatoes data.
-- `scraping.py`: Script for scraping reviews.
+- `analyze_reviews.py`: Script for analyzing and visualizing the Rotten Tomatoes review data, including polarity, subjectivity, and sentiment analysis.
+- `scraping.py`: Script for scraping reviews from Rotten Tomatoes.
 
 ## Contributing
 
@@ -60,10 +65,6 @@ If you would like to contribute to this project, please fork the repository and 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 

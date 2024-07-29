@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Your Name - [hasaan.noor@outlook.com](mailto:hasaan.noor@outlook.com)
+Hasaan Noor - [hasaan.noor@outlook.com](mailto:hasaan.noor@outlook.com)
 
 Project Link: [https://github.com/HasaanNoor/Movie-Review-Trend-Analysis](https://github.com/HasaanNoor/Movie-Review-Trend-Analysis)

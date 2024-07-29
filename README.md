@@ -48,8 +48,8 @@ The data folder contains the Rotten Tomatoes dataset used in this project. The d
 
 ## Scripts
 
-- `analyze_data.py`: Script for analyzing the Rotten Tomatoes data.
-- `visualize_data.py`: Script for creating visualizations of the data.
+- `analyze_data.py`: Script for analyzing and visualizing the Rotten Tomatoes data.
+- `scraping.py`: Script for scraping reviews.
 
 ## Contributing
 

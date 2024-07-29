@@ -1,6 +1,6 @@
 # Project Title
 
-Rotten Tomatoes Data Analysis (1970-2024)
+Rotten Tomatoes Movie Review Trend Analysis (1970-2024)
 
 ## Description
 

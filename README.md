@@ -67,9 +67,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:hasaan.noor@outlook.com)
+Your Name - [hasaan.noor@outlook.com](mailto:hasaan.noor@outlook.com)
 
-Project Link: [https://github.com/your-username/your-repository](https://github.com/HasaanNoor/Movie-Review-Trend-Analysis)
-```
-
-Replace placeholders like `your-username`, `your-repository`, and `your-email@example.com` with your actual details. This structure gives a clear overview of your project, making it easy for others to understand and contribute.
+Project Link: [https://github.com/HasaanNoor/Movie-Review-Trend-Analysis](https://github.com/HasaanNoor/Movie-Review-Trend-Analysis)

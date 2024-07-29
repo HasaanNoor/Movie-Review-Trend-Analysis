@@ -33,7 +33,7 @@ Explain how to use the scripts in the repository.
 
 ```bash
 # Example command to run a script
-python Scripts/analyze_data.py
+python Scripts/analyze_reviews.py
 ```
 
 ## Data
@@ -48,7 +48,7 @@ The data folder contains the Rotten Tomatoes dataset used in this project. The d
 
 ## Scripts
 
-- `analyze_data.py`: Script for analyzing and visualizing the Rotten Tomatoes data.
+- `analyze_reviews.py`: Script for analyzing and visualizing the Rotten Tomatoes data.
 - `scraping.py`: Script for scraping reviews.
 
 ## Contributing
